@@ -11,6 +11,7 @@
         "vite": "^5.4.19"
     },
     "dependencies": {
+        "chart.js": "^4.6.1",
         "gsap": "^3.12.7",
         "three": "^0.170.0"
     }
